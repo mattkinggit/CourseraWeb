@@ -1,0 +1,25 @@
+.page-header {
+    background-color: orange;
+    text-align: center;
+}
+
+.page-header,
+a:link {
+    color: green;
+    border: 120px;
+    padding: 20px 20px 20px 20px;
+}
+
+.main-content {
+    text-align: center;
+}
+
+.main-content,
+li {
+    list-style-type: none;
+}
+
+.site-footer {
+    background-color: orange;
+    text-align: center;
+}
